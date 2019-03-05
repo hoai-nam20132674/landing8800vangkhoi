@@ -105,3 +105,6 @@ div.wpcf7 input[type="file"] {
 div.wpcf7 input[type="file"]:disabled {
 	cursor: default;
 }
+.fl-rich-text .product-name {
+	font-family: 'Montserrat', sans-serif;
+}

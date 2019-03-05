@@ -1204,12 +1204,12 @@ YUI({'logExclude': { 'yui': true } }).use('fl-slideshow', function(Y){
 			randomize: false,
 						responsiveThreshold: 768,
 						source: [{type: "urls", urls:[{
-thumbURL: "images/nokia-8800e-fansipan-18k-rose-gold-bespoke1.jpg",largeURL: "images/nokia-8800e-fansipan-18k-rose-gold-bespoke1.jpg",x3largeURL: "images/nokia-8800e-fansipan-18k-rose-gold-bespoke1.jpg",caption: ""},{
-thumbURL: "images/nokia-8800e-fansipan-18k-rose-gold-bestpoke-001.jpg",largeURL: "images/nokia-8800e-fansipan-18k-rose-gold-bestpoke-001.jpg",x3largeURL: "images/nokia-8800e-fansipan-18k-rose-gold-bestpoke-001.jpg",caption: ""},{
-thumbURL: "images/nokia-8800e-fansipan-18k-rose-gold-bestpoke-003(1).jpg",largeURL: "images/nokia-8800e-fansipan-18k-rose-gold-bestpoke-003(1).jpg",x3largeURL: "images/nokia-8800e-fansipan-18k-rose-gold-bestpoke-003(1).jpg",caption: ""},{
-thumbURL: "images/nokia-8800e-fansipan-18k-rose-gold-bestpoke-004(1).jpg",largeURL: "images/nokia-8800e-fansipan-18k-rose-gold-bestpoke-004(1).jpg",x3largeURL: "images/nokia-8800e-fansipan-18k-rose-gold-bestpoke-004(1).jpg",caption: ""},{
-thumbURL: "images/nokia-8800e-fansipan-18k-rose-gold-bestpoke-005.jpg",largeURL: "images/nokia-8800e-fansipan-18k-rose-gold-bestpoke-005.jpg",x3largeURL: "images/nokia-8800e-fansipan-18k-rose-gold-bestpoke-005.jpg",caption: ""},{
-thumbURL: "images/nokia-8800e-fansipan-18k-rose-gold-bestpoke-003(1).jpg",largeURL: "images/nokia-8800e-fansipan-18k-rose-gold-bestpoke-003(1).jpg",x3largeURL: "images/nokia-8800e-fansipan-18k-rose-gold-bestpoke-003(1).jpg",caption: ""}]}],
+thumbURL: "images/8800E-18k-gold-alligator.png",largeURL: "images/8800E-18k-gold-alligator.png",x3largeURL: "images/8800E-18k-gold-alligator.png",caption: ""},{
+thumbURL: "images/8800E-18k-gold-alligator2.png",largeURL: "images/8800E-18k-gold-alligator2.png",x3largeURL: "images/8800E-18k-gold-alligator2.png",caption: ""},{
+thumbURL: "images/8800E-18k-gold-alligator3.png",largeURL: "images/8800E-18k-gold-alligator3.png",x3largeURL: "images/8800E-18k-gold-alligator3.png",caption: ""},{
+thumbURL: "images/8800E-18k-gold-alligator4.png",largeURL: "images/8800E-18k-gold-alligator4.png",x3largeURL: "images/8800E-18k-gold-alligator4.png",caption: ""},{
+thumbURL: "images/8800E-18k-gold-alligator5.png",largeURL: "images/8800E-18k-gold-alligator5.png",x3largeURL: "images/8800E-18k-gold-alligator5.png",caption: ""},{
+thumbURL: "images/8800E-18k-gold-alligator6.png",largeURL: "images/8800E-18k-gold-alligator6.png",x3largeURL: "images/8800E-18k-gold-alligator6.png",caption: ""}]}],
 			speed: 3000,
 			tweetButtonEnabled: true,
 			thumbsImageHeight: 120,
