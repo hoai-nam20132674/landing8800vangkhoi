@@ -1381,7 +1381,7 @@ img.mfp-img {
 
 
 .fl-node-59cc18682cdb1 > .fl-col-content {
-	background-image: url(http://vertu.com/wp-content/uploads/c8-signature-craftsmanship-materials.jpg);
+	/*background-image: url(http://vertu.com/wp-content/uploads/c8-signature-craftsmanship-materials.jpg);*/
 	background-repeat: no-repeat;
 	background-position: left center;
 	background-attachment: scroll;
@@ -1394,8 +1394,8 @@ img.mfp-img {
 	
 	
  .fl-node-59cc18682cdb1 > .fl-col-content {
-	padding-top:100px;
-	padding-bottom:100px;
+	/*padding-top:100px;*/
+	/*padding-bottom:100px;*/
 }
 .fl-node-59cc18682cf82 {
 	width: 57.53%;
